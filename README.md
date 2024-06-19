@@ -16,24 +16,6 @@ Este Sistema de Gerenciamento de Biblioteca é uma aplicação cliente-servidor 
 - **Java 17**: A aplicação é desenvolvida e testada com o Java Development Kit (JDK) 17.
 - **Gson**: Biblioteca usada para converter objetos Java em JSON e vice-versa.
 
-## Estrutura do Projeto
-
-src
-│
-├── main
-│ ├── java
-│ │ ├── library
-│ │ │ ├── client
-│ │ │ │ └── LibraryClient.java
-│ │ │ ├── server
-│ │ │ │ ├── Book.java
-│ │ │ │ ├── BookManager.java
-│ │ │ │ ├── ClientHandler.java
-│ │ │ │ └── LibraryServer.java
-│ ├── resources
-│ │ └── livros.json
-
-
 
 ## Executando a Aplicação
 
