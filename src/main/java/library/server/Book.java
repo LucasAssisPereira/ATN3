@@ -35,5 +35,5 @@ public class Book {
 
     public String getTitulo(){
         return this.titulo;
-    }
+    }
 }
